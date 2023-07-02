@@ -1,0 +1,1427 @@
+@media screen and (min-width: 769px) {
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Hiragino Mincho ProN";
+}
+
+p {
+    font-weight: bold;
+}
+
+.humbergermenu {
+    display: none;
+}
+
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#id-section {
+    background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#podcast-section {
+    background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#session-section {
+    background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ img {
+    width: 100%;
+}
+
+.header-left-logo {
+    width: 25%;
+    margin-left: 20px;
+}
+
+.header-right-above-icon {
+    width: 5%;
+}
+
+.about-img {
+    width: 50%;
+    margin: auto;
+}
+
+.program-img {
+    width: 70%;
+    margin: auto;
+}
+
+.program-contact-img {
+    width: 80%;
+}
+
+.section-img-li {
+    width: 15%;
+}
+
+.spotify-app {
+    width: 15%;
+    margin-right: 20px;
+}
+
+.itunes-app {
+    width: 15%;
+}
+
+.instagram-logo {
+    width: 10%;
+}
+
+.follow {
+  margin: auto 0px;
+}
+
+.instagram-img {
+    width: 70%;
+    margin: auto;
+}
+
+.footer-logo {
+    width: 10%;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-right-above {
+    display: flex;
+    justify-content: right;
+    margin-right: 10px;
+}
+
+.nav-header > ul > li {
+    display: inline-block;
+ }
+
+ .nav-header {
+    text-align: right;
+ }
+
+ .header-right-above-icon {
+    margin: 10px;
+ }
+
+ .nav-header-ul li {
+    margin: auto 30px;
+ }
+
+ .nav-header-ul {
+    margin: 0px;
+ }
+
+ .h2-title {
+    text-align: center;
+    font-size: 3em;
+    font-weight:900;
+    margin-bottom: 80px;
+    margin-top: 200px;
+ }
+
+ .section-about {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+ }
+
+ .section-left {
+    width: 50%;
+    margin: auto;
+ }
+
+ .section-right {
+    width: 50%;
+    margin: auto;
+ }
+
+ .about-p {
+    width: 80%;
+    font-size: 1.3em;
+   
+ }
+
+ .morebottom {
+    text-align: right;
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 90%;
+ }
+
+ .morebottom a:hover {
+    opacity: 0.5;
+ }
+
+ .section-program {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+ }
+
+ .session-program-right {
+    display: flex;
+    margin: auto;
+ }
+
+ .session-program-left {
+    margin: auto;
+ }
+
+ .session-program-left .program-img {
+    text-align: right;
+ }
+
+ .session-title {
+    font-size: 2.3em;
+    font-weight: 900;
+ }
+
+.section-right-sessions {
+    margin-left: 20px;
+}
+
+.price {
+    font-size: 1.8em;
+}
+
+.time {
+    font-size: 1.8em;
+}
+
+.section-img-ul li {
+    display: inline-block;
+    margin: 0px 40px;
+}
+
+.section-img-ul {
+    text-align: center;
+    padding-left: 0px;
+}
+
+.section-bottom {
+    margin: 40px auto;
+    width: 60%;
+}
+
+.section-bottom-right {
+    display: flex;
+  justify-content: right;
+  margin: auto;
+}
+
+.text {
+    font-size: 1.3em;
+}
+
+.section-video-bottom {
+    display: flex;
+    margin:  40px auto;
+    width: 60%;
+}
+
+.instagram {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+
+.instagram-above {
+    display:flex;
+    justify-content: space-between;
+    width: 70%;
+   margin: auto;
+}
+
+.instagram-above div {
+    display:flex;
+}
+
+.url {
+    font-size: 1.3em;
+}
+
+.followuson {
+    text-align: center;
+    font-size: 2em;
+    font-weight:900;
+}
+
+.program-contact-img:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+}
+
+.spotify-app:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+}
+
+.itunes-app:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+}
+
+.header-right-above-icon:hover {
+    opacity: 0.5;
+}
+
+.nav-header-ul li:hover {
+    opacity: 0.5;
+}
+
+.url:hover {
+    opacity: 0.5;
+}
+
+.follow a:hover {
+    opacity: 0.5;
+}
+
+.h3-title {
+    font-size: 3em;
+    text-align: center;
+}
+
+
+.aboutus-p {
+    width: 90%;
+    font-size: 1.3em;
+ }
+
+
+ .section-aboutus {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+ }
+
+ .above {
+    width: 90%;
+ }
+
+ .aboutus-tr {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px auto 0px auto;
+ }
+
+ .aboutus-tr-img-left img {
+    width: 60%;
+    transform: rotate(-15deg);
+ }
+
+ .aboutus-tr-img-left {
+    margin: auto;
+    text-align: right;
+ }
+
+
+ .aboutus-tr-img-center img {
+    width: 70%;
+ }
+
+ .aboutus-tr-img-center {
+    margin: auto;
+    text-align: center;
+ }
+
+
+ .aboutus-tr-img-right img {
+    width: 60%;
+    transform: rotate(15deg);
+ }
+
+ .aboutus-tr-img-right {
+    margin: auto;
+    text-align: left;
+ }
+
+ .aboutus-tr-p {
+    width: 70%;
+    margin: 40px auto;
+    font-size: 1.3em;
+ }
+
+ .podcast-icon {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+ }
+
+ .podcast-ul-above li {
+    display: inline-block;
+ }
+
+ .podcast-ul-above {
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 40px;
+ }
+
+
+ .podcast-ul-bottom li {
+    display: inline-block;
+ }
+
+ .podcast-ul-bottom {
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 40px;
+ }
+
+ .podcast-li {
+    width: 7%;
+    margin: 0px 20px;
+ }
+
+
+ .h2-aboutus-title {
+    text-align: center;
+    font-size: 3em;
+    font-weight:900;
+    margin-top: 200px;
+    margin-bottom: 40px;
+ }
+
+ .podcast-spotify-app {
+    width:30%;
+    margin-right: 10px;
+ }
+
+ .podcast-spotify-app:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+ }
+
+ .podcast-itunes-app {
+    width: 30%;
+    margin-left: 10px;
+ }
+
+ .podcast-itunes-app:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+ }
+
+ .podcast-li-text {
+    margin-top: 0px;
+ }
+
+ .podcast-text {
+    width: 70%;
+    margin: auto;
+ }
+
+ .podcast-text-p {
+    font-size: 1.3em;
+ }
+
+ .program {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+ }
+ .program-left {
+    width: 50%;
+    margin: auto;
+ }
+
+ .program-right {
+    width: 50%;
+ }
+
+ .program-1on1-img {
+    width: 40%;
+    margin: auto;
+ }
+
+ .program-contact-botton  {
+    width: 30%;
+    margin: auto;
+ }
+
+ .program-session-title {
+    font-size: 2.5em;
+ }
+
+ .program-price {
+    font-size: 2em;
+ }
+
+ .program-time {
+    font-size: 2em;
+ }
+
+
+.program-contact-botton:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+}
+
+.program-group-img {
+    width: 50%;
+    margin: auto;
+}
+
+.section-map {
+    margin-top: 200px;
+}
+.map-phone {
+    text-align: left;
+    margin: 0px auto;
+    width: 80%;
+}
+
+.map-email {
+    text-align:left;
+    margin: 0px auto 10px auto;
+    width: 80%;
+}
+
+.red {
+    color: red;
+}
+
+.map {
+    text-align: center;
+}
+
+.gallery-ul .gallery-li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.gallery-li {
+    width: 15%;
+}
+
+.gallery-ul {
+    text-align: center;
+}
+
+.gallery {
+    margin-top: 200px;
+}
+
+.instagram-ul .instagram-li {
+    display: inline-block;
+}
+
+.instagram-li  {
+    width: 15%;
+}
+
+.instagram-ul {
+    text-align: center;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.contact-map {
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+.textbox {
+    height: 40px;
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+.textarea {
+    width: 50%;
+    height: 300px;
+}
+
+.label {
+    color: black;
+    font-weight: bold;
+}
+
+.form {
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+
+
+input {
+    margin-bottom: 50px;
+}
+
+.submit > input {
+    width: 6em;
+    height: 4em;
+    margin-top: 50px;
+}
+
+
+.contact {
+    width: 1000px;
+    width: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.item {
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+.item:hover .item__text {
+        opacity: 1;
+    }
+    .item__img {
+        width: 100%;
+        height: 100%;
+    }
+    .item__text {
+        position: absolute;
+        width: 100%;
+        height: 97%;
+        top: 0;
+        left: 0;
+        text-align: center;
+        color: #fff;
+        background-color: rgba(0,0,0,0.6);
+        transition: .3s ease-in-out;
+        opacity: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+        
+    .insta-p {
+        font-size: 0.6em;
+    }
+
+    .insta-a {
+        color: white;
+    }
+
+    
+ .section-img-li a:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+ }
+
+
+ .podcast-li a:hover {
+    opacity: 0.7;
+    color: red;
+    transform: scale(1.1, 1.1);
+ }
+
+ .contactus {
+    position: relative;
+  }
+
+  .contactus a .absolute {
+    position: absolute;
+    top: 43%;
+    left: 43%;
+    width: 13%;
+  }
+
+  .absolute:hover {
+    opacity: 1;
+    color: red;
+    transform: scale(1.5, 1.5);
+  }
+
+
+  .phone-main-visual {
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 769px) {
+
+
+    .main-visual {
+        display: none;
+    }
+
+    .sub-visual {
+        display: none;
+    }
+
+
+    .menu-btn {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        display: flex;
+        height: 50px;
+        width: 50px;
+        justify-content: center;
+        align-items: center;
+        z-index: 90;
+        background-color: white;
+    }
+    .menu-btn span,
+    .menu-btn span:before,
+    .menu-btn span:after {
+        content: '';
+        display: block;
+        height: 3px;
+        width: 25px;
+        border-radius: 3px;
+        background-color: red;
+        position: absolute;
+    }
+    .menu-btn span:before {
+        bottom: 8px;
+    }
+    .menu-btn span:after {
+        top: 8px;
+    }
+
+    #menu-btn-check:checked ~ .menu-btn span {
+        background-color: rgba(255, 255, 255, 0);
+    }
+    #menu-btn-check:checked ~ .menu-btn span::before {
+        bottom: 0;
+        transform: rotate(45deg);
+    }
+    #menu-btn-check:checked ~ .menu-btn span::after {
+        top: 0;
+        transform: rotate(-45deg);
+    }
+
+    #menu-btn-check {
+        display: none;
+    }
+
+    .menu-content {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 100%;
+        z-index: 80;
+        background-color: white;
+        transition: all 0.5s;
+    }
+    .menu-content ul {
+        padding: 70px 10px 0;
+    }
+    .menu-content ul li {
+        border-bottom: solid 1px red;
+        list-style: none;
+    }
+    .menu-content ul li a {
+        display: block;
+        width: 100%;
+        font-size: 15px;
+        box-sizing: border-box;
+        color:red;
+        text-decoration: none;
+        padding: 9px 15px 10px 0;
+        position: relative;
+    }
+    .menu-content ul li a::before {
+        content: "";
+        width: 7px;
+        height: 7px;
+        border-top: solid 2px red;
+        border-right: solid 2px red;
+        transform: rotate(45deg);
+        position: absolute;
+        right: 11px;
+        top: 16px;
+    }
+
+    #menu-btn-check:checked ~ .menu-content {
+        left: 0;
+    }
+
+    .header-right-above-icon {
+        display: none;
+    }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Hiragino Mincho ProN";
+        }
+        
+        p {
+            font-weight: bold;
+        }
+        
+        .nav-header-ul {
+            display: none;
+        }
+        
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+            color: black;
+        }
+        
+        #id-section {
+            background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+            background-size:contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+        #podcast-section {
+            background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+            background-size:contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+        
+        #session-section {
+            background-image: url(/Users/yuki/Desktop/gettinstuck/images/background.png);
+            background-size:contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+         img {
+            width: 100%;
+        }
+        
+        .header-left-logo {
+            width: 20%;
+            margin-left: 20px;
+        }
+        
+        .header-right-above-icon {
+            width: 10%;
+        }
+        
+        .about-img {
+            width: 50%;
+            margin: auto;
+        }
+        
+        .program-img {
+            width: 80%;
+            margin: auto;
+        }
+        
+        .program-contact-img {
+            width: 80%;
+            margin-top: 20px;
+        }
+        
+        .section-img-li {
+            width: 20%;
+        }
+        
+        .spotify-app {
+            width: 20%;
+            margin-right: 5px;
+        }
+        
+        .itunes-app {
+            width: 20%;
+        }
+        
+        .instagram-logo {
+            width: 15%;
+        }
+        
+        .follow {
+          margin: auto 0px;
+        }
+        
+        .instagram-img {
+            width: 70%;
+            margin: auto;
+        }
+        
+        .footer-logo {
+            width: 15%;
+            margin: auto;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .header-right-above {
+            display: flex;
+            justify-content: right;
+            margin-right: 50px;
+        }
+        
+        .main-visual img {
+            height: 300px;
+        }
+        
+         .h2-title {
+            text-align: center;
+            font-size: 2em;
+            font-weight:900;
+            margin-top: 100px;
+         }
+        
+         .section-left {
+            width: 80%;
+            margin: auto;
+         }
+        
+         .section-right {
+            width: 100%;
+            margin: auto;
+         }
+        
+         .about-p {
+            width: 90%;
+            margin: 20px auto;
+            font-size: 0.8em;
+            text-align: center;
+    
+           
+         }
+        
+         .morebottom {
+            text-align: right;
+            font-size: 0.7em;
+            font-weight: bold;
+            width: 90%;
+         }
+        
+         .morebottom a:hover {
+            opacity: 0.5;
+         }
+        
+         .section-program {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+         }
+        
+         .session-program-right {
+            display: flex;
+            text-align: left;
+            margin: auto;
+         }
+        
+         .session-program-left {
+            margin: auto;
+         }
+         
+        
+         .session-title {
+           margin: 0px auto;
+         }
+        
+        
+        .price {
+            margin: 10px auto 0px auto;
+            font-size: 0.8em;
+        }
+        
+        .time {
+            margin: 0px auto;
+            font-size: 0.8em;
+        }
+        
+        .section-img-ul li {
+            display: inline-block;
+            margin: auto 10px;
+        }
+        
+        .section-img-ul {
+            text-align: center;
+            padding-left: 0px;
+        }
+        
+        .section-bottom {
+            margin: 0px auto;
+            width: 70%;
+        }
+        
+        .section-bottom-right {
+            display: flex;
+          justify-content: right;
+          margin: auto;
+        }
+        
+        .text {
+            font-size: 0.7em;
+            margin: 0px auto;
+        }
+        
+        .section-video-bottom {
+            margin:  0px auto;
+            width: 70%;
+        }
+        
+        .instagram {
+            margin: 100px auto;
+        }
+        
+        
+        .instagram-above {
+            display:flex;
+            justify-content: space-between;
+            width: 80%;
+           margin: auto;
+        }
+        
+        .instagram-above div {
+            display:flex;
+        }
+        
+        .url {
+            font-size: 0.6em;
+        }
+        
+        .followuson {
+            text-align: center;
+        }
+        
+        .program-contact-img:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+        }
+        
+        .spotify-app:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+        }
+        
+        .itunes-app:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+        }
+        
+        .header-right-above-icon:hover {
+            opacity: 0.5;
+        }
+        
+        .nav-header-ul li:hover {
+            opacity: 0.5;
+        }
+        
+        .url:hover {
+            opacity: 0.5;
+        }
+        
+        .follow a:hover {
+            opacity: 0.5;
+        }
+        
+        .h3-title {
+            font-size: 1.5em;
+            text-align: center;
+        }
+        
+        
+        .aboutus-p {
+            width: 90%;
+            font-size: 0.8em;
+            margin: auto;
+         }
+        
+        
+         .section-aboutus {
+            margin-top: 100px;
+         }
+        
+         .above {
+            width: 90%;
+            margin: auto;
+         }
+        
+         .aboutus-tr {
+            display: flex;
+            justify-content: space-around;
+            margin: 100px auto 0px auto;
+         }
+        
+         .aboutus-tr-img-left img {
+            width: 60%;
+            transform: rotate(-15deg);
+         }
+        
+         .aboutus-tr-img-left {
+            margin: auto;
+            text-align: right;
+         }
+        
+        
+         .aboutus-tr-img-center img {
+            width: 70%;
+         }
+        
+         .aboutus-tr-img-center {
+            margin: auto;
+            text-align: center;
+         }
+        
+        
+         .aboutus-tr-img-right img {
+            width: 60%;
+            transform: rotate(15deg);
+         }
+        
+         .aboutus-tr-img-right {
+            margin: auto;
+            text-align: left;
+         }
+        
+         .aboutus-tr-p {
+            width: 90%;
+            margin: 20px auto;
+            font-size: 0.8em;
+         }
+        
+         .podcast-icon {
+            display: flex;
+            justify-content: center;
+            margin: auto;
+            width: 60%;
+         }
+        
+         .podcast-ul-above {
+            display: flex;
+            flex-wrap: wrap;
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+         }
+
+         .podcast-ul-bottom {
+            display: flex;
+            flex-wrap: wrap;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+         }
+
+         .podcast-li {
+            margin: 20px;
+            width: calc(40%);
+         }
+         
+        
+        
+         .h2-aboutus-title {
+            text-align: center;
+            font-size: 2em;
+            margin-top: 100px;
+           
+         }
+        
+         .podcast-spotify-app {
+            width:30%;
+            margin-right: 10px;
+         }
+        
+         .podcast-spotify-app:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+         }
+        
+         .podcast-itunes-app {
+            width: 30%;
+            margin-left: 10px;
+         }
+        
+         .podcast-itunes-app:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+         }
+        
+         .podcast-li-text {
+            margin-top: 0px;
+            text-align: center;
+         }
+        
+         .podcast-text {
+            width: 90%;
+            margin: auto;
+            font-size: 0.8em;
+         }
+        
+        
+         .program {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px;
+         }
+         .program-left {
+            width: 50%;
+            margin: auto;
+         }
+        
+         .program-right {
+            width: 50%;
+         }
+        
+         .program-1on1-img {
+            width: 40%;
+            margin: auto;
+         }
+        
+         .program-contact-botton  {
+            width: 30%;
+            margin: auto;
+         }
+        
+         .program-session-title {
+            font-size: 1.3em;
+         }
+        
+         .program-price {
+            font-size: 1em;
+         }
+        
+         .program-time {
+            font-size: 1em;
+         }
+        
+        
+        .program-contact-botton:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+        }
+        
+        .program-group-img {
+            width: 50%;
+            margin: auto;
+        }
+        
+        .section-map {
+            margin-top: 100px;
+        }
+        .map-phone {
+            text-align: left;
+            margin: 0px auto;
+            width: 80%;
+        }
+        
+        .map-email {
+            text-align:left;
+            margin: 0px auto 10px auto;
+            width: 80%;
+        }
+        
+        .red {
+            color: red;
+        }
+        
+        .map {
+            text-align: center;
+        }
+        
+        .gallery-ul .gallery-li {
+            display: inline-block;
+            margin: 20px;
+        }
+        
+        .gallery-li {
+            width: 15%;
+        }
+        
+        .gallery-ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+         }
+
+         .gallery-li {
+            margin: 20px;
+            width: calc(40%);
+        }
+        
+        .gallery {
+            margin-top: 100px;
+        }
+        
+        .instagram-ul .instagram-li {
+            display: inline-block;
+        }
+        
+        .instagram-li  {
+            width: 15%;
+        }
+        
+        .instagram-ul {
+            text-align: center;
+            margin: 0px;
+            padding-left: 0px;
+        }
+        
+        .contact-map {
+            text-align: center;
+            margin-top: 100px;
+        }
+        
+        
+        .textbox {
+            height: 40px;
+            width: 70%;
+            margin-bottom: 50px;
+        }
+        
+        .textarea {
+            width: 70%;
+            height: 300px;
+        }
+        
+        .label {
+            color: black;
+            font-weight: bold;
+        }
+        
+        .form {
+            text-align: left;
+            width: 70%;
+            margin: auto;
+        }
+        
+        
+        input {
+            margin-bottom: 50px;
+        }
+        
+        .submit > input {
+            width: 6em;
+            height: 4em;
+            margin-top: 50px;
+        }
+        
+        
+        .contact {
+            width: 1000px;
+            width: auto;
+            text-align: center;
+            margin-top: 100px;
+        }
+        
+        .item {
+            max-width: 500px;
+            margin: 0 auto;
+            position: relative;
+        }
+        .item:hover .item__text {
+                opacity: 1;
+            }
+            .item__img {
+                width: 100%;
+                height: 100%;
+            }
+            .item__text {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                text-align: center;
+                color: #fff;
+                background-color: rgba(0,0,0,0.6);
+                transition: .3s ease-in-out;
+                opacity: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+                
+            .insta-p {
+                font-size: 0.6em;
+            }
+        
+            .insta-a {
+                color: white;
+            }
+        
+            
+         .section-img-li a:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+         }
+        
+        
+         .podcast-li a:hover {
+            opacity: 0.7;
+            color: red;
+            transform: scale(1.1, 1.1);
+         }
+        
+         .contactus {
+            position: relative;
+          }
+          
+        
+          .contactus a .absolute {
+            position: absolute;
+            top: 43%;
+            left: 43%;
+            width: 13%;
+          }
+        
+          .absolute:hover {
+            opacity: 1;
+            color: red;
+            transform: scale(1.1, 1.1);
+          }
+
+          .sub-visual img {
+            height: 150px
+          }
+        
+
+}
+
